@@ -18,6 +18,15 @@
         "Elements", 
         "inptFirstName.json"
       ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "membership", 
+        "Elements", 
+        "btnSubmit2.json"
+      ]
     }
   ], 
   "class": "", 
